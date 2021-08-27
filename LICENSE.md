@@ -1,4 +1,3 @@
-Copyright ©️ 2014 GitHub, Inc.
 Copyright ©️ 2021 daatguy https://github.com/daatguy
 
 Permission is hereby granted, free of charge, to any person obtaining
