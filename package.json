@@ -1,0 +1,15 @@
+{
+  "name": "brasstacks-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Industrial chic syntax theming",
+  "keywords": [
+    "syntax",
+    "dark"
+  ],
+  "repository": "https://github.com/daatguy/brasstacks-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
